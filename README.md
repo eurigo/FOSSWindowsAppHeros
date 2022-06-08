@@ -67,7 +67,7 @@ Open Source Windows Application List of Heros，Collect those Windosw open sourc
 ⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩
 
 
-## [005-JD_SHOPPER](https://github.com/louisyoungx/jd-shopper)🌚
+## [005-JD_SHOPPER](https://github.com/FanbeiFan/JD-SHOPPER)🌚
 
 **京东定时下单工具**
 
