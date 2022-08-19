@@ -54,7 +54,7 @@ Open Source Windows Application List of Heros，Collect those Windosw open sourc
 ⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩
 
 
-## [004-Clash](https://github.com/Dreamacro/clash)🌝
+## [004-Clash_for_windows](https://github.com/Fndroid/clash_for_windows_pkg/releases)🌝
 
 **界面好看的、支持VMESS，SHADOSOCKS，TROJAN，SNELL等协议的订阅管理器**
 
@@ -82,25 +82,17 @@ Open Source Windows Application List of Heros，Collect those Windosw open sourc
 
 ⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩
 
-## [006-HEU_KMS_Activator](https://github.com/zbezj/HEU_KMS_Activator)🌚
 
-**KSM TOOL**
+## [006-Typora](https://eurigo.lanzouy.com/iWPVr09la7ve)🌚
 
-![image](https://user-images.githubusercontent.com/18246136/172519224-eae68256-3eb9-4bcf-86c3-1214d9c2d6ff.png)
-
-### 简易教程
-
-> 开箱即用
+> 密码：b0px by落虾与孤鹜齐飞
 
 ⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩
 
-## [Typora](https://www.bilibili.com/video/av938124690)🌚
+## [007-Notepad2](https://github.com/zufuliu/notepad2)😃
+> 好用的文本编辑器，支持替换系统记事本
 
-[网盘地址](https://eurigo.lanzouu.com/iAwYr062idgb) 密码：1gbs
-
-### 简易教程
-
-> 白嫖否？
+![image](https://user-images.githubusercontent.com/18246136/185670411-1b53cac5-3566-4409-9cde-4736af6dac03.png)
 
 ⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩
 
